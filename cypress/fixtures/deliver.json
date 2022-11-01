@@ -1,0 +1,58 @@
+{
+    "signup": {
+        "name": "Katlin Marques",
+            "cpf": "00000014141",
+            "email": "katlinolimar@gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+
+                "postalcode": "03565030",
+                "street": "Rua Doutor Pedro Mendes",
+                "number": "267",
+                "details": "Casa 7",
+                "district": "Vila Santa Teresa (Zona Leste)",
+                "city_state": "São Paulo/SP"
+            }, 
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+
+    },
+
+    "cpf_inv": {
+        "name": "Felipe Bagietto",
+            "cpf": "000000141AA",
+            "email": "flpbagietto@gmail.com",
+            "whatsapp": "11999999998",
+            "address": {
+
+                "postalcode": "03565030",
+                "street": "Rua Doutor Pedro Mendes",
+                "number": "267",
+                "details": "Casa 7",
+                "district": "Vila Santa Teresa (Zona Leste)",
+                "city_state": "São Paulo/SP"
+            }, 
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_inv": {
+        "name": "Katlin Marques",
+            "cpf": "00000014141",
+            "email": "katlinolimar.com.br",
+            "whatsapp": "11999999999",
+            "address": {
+
+                "postalcode": "03565030",
+                "street": "Rua Doutor Pedro Mendes",
+                "number": "267",
+                "details": "Casa 7",
+                "district": "Vila Santa Teresa (Zona Leste)",
+                "city_state": "São Paulo/SP"
+            }, 
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+
+    }
+}
